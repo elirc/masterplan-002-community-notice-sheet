@@ -14,29 +14,29 @@ The smallest useful result answers this user need: A neighborhood group needs a 
 
 A page needs to answer what, when, where and how to ask a question. Fill those facts in HTML before choosing colors. The example address is fictional. The illustration supports the event, but it does not carry the only statement of the time or location. That separation matters when images fail, when someone uses a text-oriented browser, or when a reader skims headings.
 
-**Pause and produce evidence:** Desktop width. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
+**Pause and produce evidence:** Styles disabled. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
 
 ## Step 2: Measure the boxes
 
 Read the project-specific rules at the bottom of style.css. The copy reserves 55% and the figure 40%; padding belongs inside those widths because border-box is applied consistently. Inline-block elements still participate in inline formatting, so source whitespace has width. Predict what happens if both widths become 50% and then test it in developer tools without saving the change.
 
-**Pause and produce evidence:** 320px width. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
+**Pause and produce evidence:** Desktop width. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
 
 ## Step 3: Design for awkward content
 
 Replace the location with a long but realistic place name. At a narrow viewport, the text must wrap within the content column rather than disappearing under overflow:hidden. The reference switches to a single column below 650px. It does not move the contact information into an image or depend on a hover interaction to reveal essential facts.
 
-**Pause and produce evidence:** notice.svg missing. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
+**Pause and produce evidence:** 320px width. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
 
 ## Step 4: Verify meaning as well as appearance
 
 A screenshot can show attractive boxes while hiding broken reading order. Disable the stylesheet, inspect the heading hierarchy and open the page using only the keyboard. The automated asset check proves files exist, not that the alternative text is well written. The browser evidence records a missing-image probe; you still need to judge whether the replacement description is useful.
 
-**Pause and produce evidence:** Styles disabled. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
+**Pause and produce evidence:** notice.svg missing. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
 
 ## Keep the implementation reviewable
 
-A useful commit has one understandable reason to exist. Separate the initial working slice, the checks that expose its important boundaries, and the teaching material that explains it. The published commits in this repository were assembled from verified working files; they are real commits, not fabricated evidence of a long historical development process. M001 additionally contains the actual two-file baseline and a separate opening-time correction.
+A useful commit has one understandable reason to exist. Separate the initial working slice, the checks that expose its important boundaries, and the teaching material that explains it. The published commits in this repository were assembled from verified working files; they are real commits, not fabricated evidence of a long historical development process.
 
 For your own variation, commit at a point where the behavior and evidence agree. Describe the trigger, the resulting behavior and the check in the commit message or review note. Avoid mixing a rule change with unrelated formatting because it makes the learning decision harder to see.
 

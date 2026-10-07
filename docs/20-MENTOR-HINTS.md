@@ -104,9 +104,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Clarify an alternate fictional venue.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Add ordinary text near the location; use a meaningful subheading; check its order without styles.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Add ordinary text near the location; use a meaningful subheading; check its order without styles. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: Both venues and the condition for using each remain readable at 320px.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: Both venues and the condition for using each remain readable at 320px. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose wording that avoids ambiguity. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 
@@ -114,9 +114,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Tell visitors what to do before arriving.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Group related instructions in a list; keep event facts outside the illustration; inspect spacing and source order.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Group related instructions in a list; keep event facts outside the illustration; inspect spacing and source order. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: List meaning survives disabled CSS and keyboard users can reach any links.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: List meaning survives disabled CSS and keyboard users can reach any links. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose three fictional preparations. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 
@@ -124,9 +124,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Avoid asking visitors to calculate the time span.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Add a duration sentence; verify it matches the fictional start and end times; inspect print preview.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Add a duration sentence; verify it matches the fictional start and end times; inspect print preview. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: The duration and visible times agree in both screen and print views.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: The duration and visible times agree in both screen and print views. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose a concise duration format. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 
@@ -134,9 +134,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Make the final approach understandable without a map service.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Add numbered fictional directions; identify the entrance consistently; link from the venue paragraph.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Add numbered fictional directions; identify the entrance consistently; link from the venue paragraph. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: The local fragment resolves and directions remain usable if the illustration fails.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: The local fragment resolves and directions remain usable if the illustration fails. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose the landmark descriptions. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 
@@ -144,9 +144,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Compare informative and decorative image roles.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Add a small purely decorative local asset; use empty alt for that asset only; retain meaningful alt for the original illustration.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Add a small purely decorative local asset; use empty alt for that asset only; retain meaningful alt for the original illustration. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: Removing artwork loses no essential event facts and roles are explained.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: Removing artwork loses no essential event facts and roles are explained. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose decoration that carries no unique information. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 
@@ -154,9 +154,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Explain who answers the example contact address.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Add a fictional organizer name in text; keep link purpose clear; test a long name at narrow width.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Add a fictional organizer name in text; keep link purpose clear; test a long name at narrow width. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: The organizer label and contact link stay connected without clipping.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: The organizer label and contact link stay connected without clipping. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose a fictional name and role. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 
@@ -164,9 +164,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Communicate a changed event state clearly.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Add a prominent textual status near the heading; retain the original event context; avoid color-only meaning.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Add a prominent textual status near the heading; retain the original event context; avoid color-only meaning. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: A stylesheet-free reading clearly says the event is canceled.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: A stylesheet-free reading clearly says the event is canceled. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose whether to retain the original date. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 
@@ -174,9 +174,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Practice content reuse without a framework.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Copy the small page into a separate practice fixture; change event facts consistently; share the stylesheet through a relative link.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Copy the small page into a separate practice fixture; change event facts consistently; share the stylesheet through a relative link. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: Each page answers what, when, where and contact without mixing events.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: Each page answers what, when, where and contact without mixing events. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose which content genuinely differs. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 
@@ -184,9 +184,9 @@ Look for a concrete connection to `public/index.html` or `public/index.html and 
 
 **First hint:** The desired improvement is “Add a developer worksheet beside the guide.” Start by identifying which existing boundary already knows the necessary information. Do not copy that information into new state until you can explain why derivation is insufficient.
 
-**Second hint:** Follow this source-specific route: Record declared widths; calculate padding inside border-box; compare a temporary content-box experiment.. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
+**Second hint:** Follow this source-specific route: Record declared widths; calculate padding inside border-box; compare a temporary content-box experiment. Keep each stage independently inspectable. If a step requires a policy choice, write the choice before implementing it.
 
-**Third hint:** Your strongest completion evidence should establish: The worksheet predicts the observed wrap instead of hiding overflow.. Invent a plausible wrong implementation and make your example disagree with it.
+**Third hint:** Your strongest completion evidence should establish: The worksheet predicts the observed wrap instead of hiding overflow. Invent a plausible wrong implementation and make your example disagree with it.
 
 **Decision still left to you:** Choose measurement values for the experiment. The guide intentionally does not settle this. Evaluate your answer by clarity of the contract, consistency of the implementation and quality of verification, not by guessing the author's preferred wording.
 

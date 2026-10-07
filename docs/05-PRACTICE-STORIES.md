@@ -6,8 +6,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 
 ## Story 01: Add an accessibility note
 
-**User need:** As a learner or user of Community Notice Sheet, I want this small improvement so the behavior is easier to use, explain or verify.
-
 **Feature boundary:** Add a short section describing the fictional entrance and quiet area using meaningful headings.
 
 **Implementation plan:**
@@ -26,8 +24,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 **Stretch only after completion:** add one adversarial example that a plausible but incorrect solution would fail. Explain why that example is more informative than adding three ordinary examples.
 
 ## Story 02: Add a second contact method
-
-**User need:** As a learner or user of Community Notice Sheet, I want this small improvement so the behavior is easier to use, explain or verify.
 
 **Feature boundary:** Add a clearly labeled fictional contact link and compare it with the current email link.
 
@@ -48,8 +44,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 
 ## Story 03: Improve the broken-image experience
 
-**User need:** As a learner or user of Community Notice Sheet, I want this small improvement so the behavior is easier to use, explain or verify.
-
 **Feature boundary:** Review the illustration’s alt and caption as separate jobs.
 
 **Implementation plan:**
@@ -68,8 +62,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 **Stretch only after completion:** add one adversarial example that a plausible but incorrect solution would fail. Explain why that example is more informative than adding three ordinary examples.
 
 ## Story 04: Handle a longer venue name
-
-**User need:** As a learner or user of Community Notice Sheet, I want this small improvement so the behavior is easier to use, explain or verify.
 
 **Feature boundary:** Add a long realistic location and adjust only the layout rules that need changing.
 
@@ -90,8 +82,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 
 ## Story 05: Create a print-friendly notice
 
-**User need:** As a learner or user of Community Notice Sheet, I want this small improvement so the behavior is easier to use, explain or verify.
-
 **Feature boundary:** Add a small print stylesheet that keeps the event facts clear on one page.
 
 **Implementation plan:**
@@ -110,8 +100,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 **Stretch only after completion:** add one adversarial example that a plausible but incorrect solution would fail. Explain why that example is more informative than adding three ordinary examples.
 
 ## Story 06: Compare two width allocations
-
-**User need:** As a learner or user of Community Notice Sheet, I want this small improvement so the behavior is easier to use, explain or verify.
 
 **Feature boundary:** Try a different copy/illustration ratio and write a short decision note.
 
